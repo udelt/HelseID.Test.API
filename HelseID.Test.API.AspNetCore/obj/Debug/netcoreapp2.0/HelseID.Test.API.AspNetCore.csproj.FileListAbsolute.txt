@@ -1,0 +1,11 @@
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\bin\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.deps.json
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\bin\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.runtimeconfig.json
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\bin\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.runtimeconfig.dev.json
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\bin\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.dll
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\bin\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.pdb
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\obj\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.csprojResolveAssemblyReference.cache
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\obj\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.csproj.CoreCompileInputs.cache
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\obj\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.AssemblyInfoInputs.cache
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\obj\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.AssemblyInfo.cs
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\obj\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.dll
+C:\Dev\HelseID\Testing\Api\HelseID.Test.API\HelseID.Test.API.AspNetCore\obj\Debug\netcoreapp2.0\HelseID.Test.API.AspNetCore.pdb
